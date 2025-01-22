@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pathivada Mounika
+- 👋 Hi, I’m Pathivada Mounika
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning B tech 2nd year
 - 💞️ I’m looking to collaborate With industry professionals
