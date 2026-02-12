@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pathivada Mounika
-- 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning B tech 2nd year
+- 👀 I’m interested in Java Fullstack Development
+- 🌱 I’m currently pursuing B tech 2nd year
 - 💞️ I’m looking to collaborate With industry professionals
 - 📫 How to reach me mail mounikapathivada2005@gmail.com
 
